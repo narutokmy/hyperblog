@@ -52,3 +52,11 @@ body
     padding: 1em;
     background-color: aquamarine;
 }
+
+#footer
+{
+    background-color: gray;
+    color: pink;
+    margin: 0 auto;
+    text-align: center;
+}
